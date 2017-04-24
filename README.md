@@ -8,7 +8,6 @@ In computer science, a B-tree is a self-balancing tree data structure that keeps
 
 - Every noda has at most m children.
 - Every non-leaf node (except root) has at least ⌈m/2⌉ children.
-- The root has at least two children if it is not a leaf node.
 - A non-leaf node with k children contains k−1 keys.
 - All leaves appear in the same level.
 
