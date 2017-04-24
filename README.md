@@ -4,7 +4,7 @@ In computer science, a B-tree is a self-balancing tree data structure that keeps
 
 ![B-Tree](http://bluerwhite.org/btree/tree-search.gif)
 
-## Defination
+## Definition
 
 - Every noda has at most m children.
 - Every non-leaf node (except root) has at least ⌈m/2⌉ children.
